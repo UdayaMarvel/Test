@@ -9,7 +9,7 @@ public static void main(String[] args) {
 	Map<Character, Integer> mp = new HashMap();
 	for(int i =0; i <s.length();i++) {
 		char ch = s.charAt(i);
-		
+		System.out.println(ch);
 	}
 }
 }
