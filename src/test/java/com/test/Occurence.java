@@ -13,6 +13,4 @@ public static void main(String[] args) {
 	}
 	System.out.println("Conflict 2 line");
 	System.out.println("This is conflict line 1");
-	System.out.println("Conflict 3 line");
-}
 }
