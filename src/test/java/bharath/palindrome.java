@@ -21,10 +21,14 @@ String a = "malayalam";
 		System.out.println("palindrom");
 	}
 	else {System.out.println("not a palindrom");}
+<<<<<<< HEAD
 	System.out.println("no");
 	
 	
 	
+=======
+		system.out.println("bharath");
+>>>>>>> 255cbb9c090d53cc47e378a502db052c32a21893
 }
 
 }
