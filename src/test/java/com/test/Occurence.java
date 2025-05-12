@@ -11,5 +11,6 @@ public static void main(String[] args) {
 		char ch = s.charAt(i);
 		
 	}
+	System.out.println("I am making a change in the occurence class");
 }
 }
