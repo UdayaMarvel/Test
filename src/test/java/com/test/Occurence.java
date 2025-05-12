@@ -11,5 +11,6 @@ public static void main(String[] args) {
 		char ch = s.charAt(i);
 		
 	}
+	system.out.println("This is conflict line 1");
 }
 }
