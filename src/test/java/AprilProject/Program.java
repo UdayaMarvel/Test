@@ -26,12 +26,8 @@ public class Program {
 	            }
 	            System.out.println();
 	        }
-	        System.out.println("new version");
-	        System.out.println("new version");
-	        System.out.println("new version");
-	        System.out.println("new version");
-		    System.out.println("new");
-		    System.out.println("new");
+	       System.out.println("new version");
+	       System.out.println("new version");
 	    }
 
  
