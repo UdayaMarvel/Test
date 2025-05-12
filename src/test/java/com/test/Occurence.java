@@ -10,6 +10,21 @@ public static void main(String[] args) {
 	for(int i =0; i <s.length();i++) {
 		char ch = s.charAt(i);
 		System.out.println(ch);
+		if(mp.containsKey(ch)) {
+			mp.put(ch, mp.get(ch)+1);
+		}
+		else {
+			mp.put(ch,1);
+		}
 	}
+	System.out.println("I am making a change in the occurence class");
+	System.out.println(mp);
+	
+	System.out.println("new update");
+	System.out.println("new update");
+	System.out.println("new update");
+	System.out.println("new update");
+
+	// asfnkasndkandknfalsdnl
 }
 }
