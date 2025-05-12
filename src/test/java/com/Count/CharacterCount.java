@@ -20,11 +20,15 @@ char[] s1=s.toCharArray();
 			}
 		}
 		System.out.println(map);
+<<<<<<< HEAD
 		
 		System.out.println("New Update");
 		System.out.println("New Update");
 		System.out.println("New Update");
 		System.out.println("New Update");
+=======
+		//aaaaaaaaaaaaafirengnjsngirwfrifnirnfirfio
+>>>>>>> cba535c34cecdccc266fe62069ab63cdf3a46240
 				}
 
 }
