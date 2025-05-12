@@ -21,6 +21,7 @@ String a = "malayalam";
 		System.out.println("palindrom");
 	}
 	else {System.out.println("not a palindrom");}
+		system.out.println("bharath");
 }
 
 }
