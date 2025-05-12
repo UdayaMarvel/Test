@@ -9,8 +9,21 @@ public static void main(String[] args) {
 	Map<Character, Integer> mp = new HashMap();
 	for(int i =0; i <s.length();i++) {
 		char ch = s.charAt(i);
-		
+		if(mp.containsKey(ch)) {
+			mp.put(ch, mp.get(ch)+1);
+		}
+		else {
+			mp.put(ch,1);
+		}
 	}
 	System.out.println("I am making a change in the occurence class");
+	System.out.println(mp);
+	
+	System.out.println("new update");
+	System.out.println("new update");
+	System.out.println("new update");
+	System.out.println("new update");
+
+	// asfnkasndkandknfalsdnl
 }
 }
