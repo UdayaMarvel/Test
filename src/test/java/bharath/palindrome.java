@@ -29,6 +29,7 @@ String a = "malayalam";
 =======
 		system.out.println("bharath");
 >>>>>>> 255cbb9c090d53cc47e378a502db052c32a21893
+	System.out.println("new update in remote");
 }
 
 }
