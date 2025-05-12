@@ -16,6 +16,7 @@ public static void main(String[] args) {
 			mp.put(ch,1);
 		}
 	}
+	System.out.println("I am making a change in the occurence class");
 	System.out.println(mp);
 	
 	System.out.println("new update");
