@@ -26,18 +26,19 @@ public class Program {
 	            }
 	            System.out.println();
 	        }
+	        System.out.println("hari");
 	    }
 
  
 	 
-	 
+	
 	 
 	// Java Program to print pattern
 	// Square hollow pattern
 
 
 	
-	    
+  
 	    // Function to demonstrate pattern
 	   
 	    // Driver Function
@@ -46,6 +47,8 @@ public class Program {
 	        int n = 6;
 	        printPattern(n);
 	    }
+	    
+	    
 	}
 
 	 
