@@ -20,6 +20,11 @@ char[] s1=s.toCharArray();
 			}
 		}
 		System.out.println(map);
+		
+		System.out.println("New Update");
+		System.out.println("New Update");
+		System.out.println("New Update");
+		System.out.println("New Update");
 				}
 
 }
