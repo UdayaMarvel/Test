@@ -24,6 +24,12 @@ public class PavishOccuranceProgram {
 	        }
 
 	        sc.close();
+	        
+	        
+	        System.out.println("New Update");
+	        System.out.println("New Update");
+	        System.out.println("New Update");
+	        
 	    }
 
 
