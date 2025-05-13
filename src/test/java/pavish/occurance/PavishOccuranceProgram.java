@@ -24,12 +24,18 @@ public class PavishOccuranceProgram {
 	        }
 
 	        sc.close();
+<<<<<<< HEAD
 	        
 	        
 	        System.out.println("New Update");
 	        System.out.println("New Update");
 	        System.out.println("New Update");
 	        
+=======
+
+
+		//pavish changing the updates
+>>>>>>> 156ce0ca4935058fccaa36370850f7bf364a702d
 	    }
 
 
